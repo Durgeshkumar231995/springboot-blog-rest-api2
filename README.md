@@ -1,15 +1,5 @@
-# The source code of this project is upgraded to Spring Boot 3.2.1 and jwt 0.12.3
 
-# Source code of Bestseller Udemy Course - Building Real-Time REST APIs with Spring Boot
-Learn how to build real-time REST APIs with Spring Boot by building a complete Blog App.
-
-This course supports Spring Boot 3+, Spring Security 6+
-
-Reach out to me for a discount coupon at javaguides.net@gmail.com
-
-Udemy Course Link - [Building Real-Time REST APIs with Spring Boot - Blog App](https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?referralCode=6312172DF8B8C2C11F5E)
-
-# What you'll learn in this course?
+# content in project used
 - Learn how to build great REST APIs for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
 - Learn REST basics - Resource, Sub-resource, URI, HTTP methods, HTTP status codes
 - Learn how to build CRUD REST APIs
@@ -34,4 +24,4 @@ Udemy Course Link - [Building Real-Time REST APIs with Spring Boot - Blog App](h
 - Deploy Spring Boot Blog App on AWS Cloud
 - Learn Docker
 - Learn Spring and Spring Boot Annotations
-- Interview QA
+
